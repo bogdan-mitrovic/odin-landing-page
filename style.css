@@ -22,6 +22,7 @@ h1{
     font-size: 48px;
     color: #F9FAF8;
     font-weight: 900;
+    margin: 0;
 }
 p, ul, li{
  margin: 0;
@@ -42,15 +43,12 @@ ul{
     display: flex;
     gap: 20px;
 }
-
 .awesome, .placeholder{
-    display: flex;
-    width: 600px;
+    flex: 1 1;
 }
 img{
-    flex: 1;
+    max-width: 100%;
 }
-
 .awesome{
     flex-direction: column;
 }
@@ -59,21 +57,52 @@ button{
     color: #F9FAF8;
     border-radius: 6px;
     border: 0;
+    margin-top: 10px;
     padding: 8px 30px;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    padding: 0 250px;
+}
+.illustrations{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+}
+.illustration{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 10px;
+}
+.ill{
+    border: 5px solid #3882F6;
+    border-radius: 8px;
+    min-height: 180px;
 }
 h2{
     font-size: 36px;
     color: #1F2937;
     font-weight: 900;
+    align-self: center;
 }
 .quotesec{
     background-color: #E5E7EB;
+    padding: 100px 270px;
+    display: flex;
+    flex-direction: column;
 
 }
 .quote{
     font-size: 36px;
     font-style:italic;
     color: #1F2937;
+}
+.author{
+    align-self: flex-end;
 }
 .action{
     margin: 50px 200px;

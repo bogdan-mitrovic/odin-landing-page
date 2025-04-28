@@ -1,3 +1,8 @@
 # odin-landing-page
 This is a website that will display what i learnd so far in the course
 (html and css)
+Image by <a href="https://pixabay.com/users/wilbert_rodriguez-6892903/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3442257">Wilbert Rodriguez</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3442257">Pixabay</a>
+Image by <a href="https://pixabay.com/users/jaclou-dl-5602247/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8578562">JackieLou DL</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8578562">Pixabay</a>
+Image by <a href="https://pixabay.com/users/freestocks-photos-7014431/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2939726">freestocks-photos</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2939726">Pixabay</a>
+Image by <a href="https://pixabay.com/users/gruendercoach-13177285/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8540772">Siegfried Poepperl</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8540772">Pixabay</a>
+Image by <a href="https://pixabay.com/users/pexels-2286921/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1285341">Pexels</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1285341">Pixabay</a>
